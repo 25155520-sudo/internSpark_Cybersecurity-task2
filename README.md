@@ -7,11 +7,16 @@ The assessment focused on identifying common web vulnerabilities by intercepting
 The objective of the assessment was to understand how insecure input validation and improper output handling can lead to serious security risks in web applications.
 
 Target Information:
-Parameter	     Value
-Application	   OWASP Juice Shop
-URL	           http://localhost:3000
-Testing Method Manual Testing
-Testing Tool	 Burp Suite
+Parameter:	    
+Value
+Application:	  
+OWASP Juice Shop
+URL:	           
+http://localhost:3000
+Testing Method: 
+Manual Testing
+Testing Tool:	 
+Burp Suite
 
 Tool Used:                 
 Burp Suite
