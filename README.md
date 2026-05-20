@@ -12,7 +12,7 @@ Value
 Application:	  
 OWASP Juice Shop
 URL:	           
-http://localhost:3000
+"http://localhost:3000"
 Testing Method: 
 Manual Testing
 Testing Tool:	 
